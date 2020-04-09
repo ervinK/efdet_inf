@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations>
+	<version>1.1</version>
+	<meta>
+		<mode>annotation</mode>
+		<labels>
+			<label>
+				<name>bird</name>
+			</label>
+			<label>
+				<name>cat</name>
+			</label>
+			<label>
+				<name>dog</name>
+			</label>
+		</labels>
+	</meta>
+	<image height="480" width="640" name="10177200393_c9256092f8_z.jpg" id="0">
+		<box ybr="417.08" xbr="422.48" ytl="2.38" xtl="150.78" occluded="0" label="bird"></box>
+		<box ybr="340.81" xbr="625.07" ytl="226.41" xtl="480.48" occluded="0" label="bird"></box>
+		<box ybr="338.43" xbr="180.18" ytl="251.04" xtl="17.23" occluded="0" label="bird"></box>
+	</image>
+	<image height="427" width="640" name="4235656485_30f4c15875_z.jpg" id="1">
+		<box ybr="403.5" xbr="584.29" ytl="81.23" xtl="218.91" occluded="0" label="bird"></box>
+	</image>
+	<image height="517" width="640" name="7173758009_cfb0fb758f_z.jpg" id="2">
+		<box ybr="346.56" xbr="281.52" ytl="59.9" xtl="94.98" occluded="0" label="bird"></box>
+	</image>
+	<image height="512" width="640" name="8101088277_58c1822a8a_z.jpg" id="3">
+		<box ybr="366.05" xbr="595.44" ytl="195.71" xtl="340.37" occluded="0" label="bird"></box>
+		<box ybr="371.98" xbr="287.83" ytl="218.59" xtl="38.6" occluded="0" label="bird"></box>
+		<box ybr="333.84" xbr="235.29" ytl="186.39" xtl="22.59" occluded="0" label="bird"></box>
+	</image>
+	<image height="450" width="600" name="13002133_bd46685248_z.jpg" id="4">
+		<box ybr="449.1" xbr="458.64" ytl="119.16" xtl="2.07" occluded="0" label="cat"></box>
+		<box ybr="379.84" xbr="577.06" ytl="3.71" xtl="224.77" occluded="0" label="cat"></box>
+	</image>
+	<image height="640" width="479" name="57936433_7c72c6589b_z.jpg" id="5">
+		<box ybr="539.22" xbr="422.7" ytl="130.23" xtl="3.22" occluded="0" label="cat"></box>
+	</image>
+	<image height="480" width="640" name="2057936101_02179c7b35_z.jpg" id="6">
+		<box ybr="319.36" xbr="498.75" ytl="132.67" xtl="228.64" occluded="0" label="dog"></box>
+	</image>
+	<image height="640" width="426" name="364862714_f0fe92bcfa_z.jpg" id="7">
+		<box ybr="557.22" xbr="422.7" ytl="188.6" xtl="60.42" occluded="0" label="dog"></box>
+	</image>
+</annotations>
